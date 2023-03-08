@@ -1,0 +1,4 @@
+enabled: true
+feature:
+  bypass-areas: []
+  fast-place-checks: []
